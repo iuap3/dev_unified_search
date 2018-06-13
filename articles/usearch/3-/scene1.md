@@ -76,7 +76,7 @@ select * from user where name=term('sjjs')
 select * from user where name=matchquery('数据检索')
 
 ```
-
+**注意：使用sql查询出来的ik分词结果，不会带相关度，如果应用场景需要相关度查询，需要使用DSL语法查询**
 
 
 ### like 查询

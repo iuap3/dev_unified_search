@@ -9,6 +9,6 @@
 * [快速入门](articles/usearch/2-/)
     * [场景一：开发步骤](articles/usearch/2-/scene1.md)
 * [用户手册](articles/usearch/3-/)
-    * [SQL基本操作](articles/usearch/2-/scene1.md)
+    * [SQL基本操作](articles/usearch/3-/scene1.md)
 * [常见问题](articles/usearch/4-/)
     * [如何开发widget](articles/usearch/4-/question1.md)
